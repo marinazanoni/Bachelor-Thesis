@@ -1,6 +1,6 @@
 # Bachelor-Thesis
 ## Optimization approaches for the urban delivery problem with trucks and drones [Introduction to the Problem]
-
+ 
 In this study, we examine a problem characterized by the following features:
 
 - A heterogeneous fleet composed of drones and standard vehicles such as trucks or ships.
