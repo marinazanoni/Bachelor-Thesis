@@ -1,5 +1,7 @@
 # Bachelor-Thesis
-## Optimization approaches for the urban delivery problem with trucks and drones [Introduction to the Problem]
+## Optimization approaches for the urban delivery problem with trucks and drones 
+
+![Drones](/imgs/droniDHLtagliato.jpg)
  
 In this study, we examine a problem characterized by the following features:
 
